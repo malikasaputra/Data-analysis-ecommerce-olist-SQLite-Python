@@ -16,7 +16,7 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 2. Top 3 Products
 3. Top 3 Cities
 4. Product Price Distribution
-5. Correlation Between Delivery and Review Score
+5. Correlation Delivery and Review Score
 6. Payment Method Distribution
 
 ## Dataset
@@ -28,6 +28,7 @@ https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqli
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
