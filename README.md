@@ -1,4 +1,4 @@
-## E-commerce Data Analysis (Olist)
+## **Olist-E-commerce-Data-Analysis-using-SQLite-and-Python**
 
 ## Overview
 Olist is a Brazilian e-commerce platform with multiple sellers.
@@ -44,6 +44,7 @@ https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqli
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
