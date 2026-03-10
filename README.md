@@ -21,10 +21,12 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 
 ## Dataset
 Olist E-commerce Dataset (Kaggle)
+https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
 ## Project Structure
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
