@@ -28,8 +28,8 @@ Visualizations:
 1. What is the total revenue trend over time?
 2. Which products sell the most?
 3. Which cities have the highest revenue?
-4. Does delivery time affect the review score?
-5. Which customers give the highest review ratings?
+4. How is the product price distributed?
+5. Does delivery time affect the review score?
 6. Which payment method is used most often?
 
 ## 💡 Key Insights
@@ -51,6 +51,7 @@ Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-ol
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
