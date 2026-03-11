@@ -7,8 +7,8 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 
 ## ⚙️ Tools & Library
 * Visual Studio Code
-* Python
 * Jupyter Notebook
+* Python
 * SQLite
 * Pandas
 * Matplotlib
@@ -51,6 +51,7 @@ Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-ol
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
